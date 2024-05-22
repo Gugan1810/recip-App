@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Recipe</string>
+
+    <string-array name="recipe_type">
+        <item>All Recipe Type</item>
+        <item>Breakfast recipes</item>
+        <item>Lunch recipes</item>
+        <item>Dinner recipes</item>
+        <item>Appetizer recipes</item>
+        <item>Salad recipes</item>
+    </string-array>
+
+    <string-array name="add_recipe_type">
+        <item>Breakfast recipes</item>
+        <item>Lunch recipes</item>
+        <item>Dinner recipes</item>
+        <item>Appetizer recipes</item>
+        <item>Salad recipes</item>
+    </string-array>
+
+</resources>
